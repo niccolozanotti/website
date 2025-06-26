@@ -18,7 +18,7 @@ menu:
           weight: 2
 
 params:
-    description: "I am MSc Student in AI at unibo. Currently visiting research student at the Institute of Computing for Climate Science in Cambridge, UK."
+    description: "I am MSc Student in AI at unibo. Collaborator at the Institute of Computing for Climate Science in Cambridge, UK."
     author: Niccolò Zanotti
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -44,7 +44,7 @@ params:
     profileMode:
           enabled: true
           title: Niccolò Zanotti
-          subtitle: "I am MSc Student in AI at <a href='https://www.unibo.it/en' style='color:#209b91;'>unibo</a>. Currently visiting research student at the <a href='https://iccs.cam.ac.uk' style='color:#209b91;'>Institute of Computing for Climate Science</a> in Cambridge, UK. Interested in Climate, AI and Research Software."
+          subtitle: "I am an MSc Student in AI at <a href='https://www.unibo.it/en' style='color:#209b91;'>unibo</a>. Collaborator at the <a href='https://iccs.cam.ac.uk' style='color:#209b91;'>Institute of Computing for Climate Science</a>. Interested in Climate (sea ice), Machine Learning and Research Software."
           imageUrl: "profile.jpeg"
           imageWidth: 160
           imageHeight: 160
