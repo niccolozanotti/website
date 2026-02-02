@@ -66,8 +66,6 @@ params:
           url: https://codeberg.org/niccolozanotti
         - name: Bluesky
           url: https://bsky.app/profile/niccolozanotti.com
-        - name: Mastodon
-          url: https://mastodon.social/@niccolozanotti
 
     assets:
         disableScrollBarStyle: true
