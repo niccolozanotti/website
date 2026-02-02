@@ -13,9 +13,6 @@ menu:
         - name: Presentations
           url: presentations/
           weight: 2 
-        - name: Software
-          url: software/
-          weight: 2
 
 params:
     description: "I am MSc Student in AI at unibo. Collaborator at the Institute of Computing for Climate Science in Cambridge, UK."
@@ -44,13 +41,11 @@ params:
     profileMode:
           enabled: true
           title: Niccolò Zanotti
-          subtitle: "I am an MSc Student in AI at <a href='https://www.unibo.it/en' style='color:#209b91;'>unibo</a>. Collaborator at the <a href='https://iccs.cam.ac.uk' style='color:#209b91;'>Institute of Computing for Climate Science</a>. Interested in Climate (sea ice), Machine Learning and Research Software."
+          subtitle: "I am an MSc Student in AI at <a href='https://www.unibo.it/en' style='color:#209b91;'>unibo</a>. Interested in Climate (sea ice), Machine Learning and Research Software."
           imageUrl: "profile.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Software
-              url: software/
             - name: Presentations
               url: presentations/
             - name: Tags
@@ -67,8 +62,8 @@ params:
           url: https://www.linkedin.com/in/niccolo-zanotti
         - name: GitHub
           url: https://github.com/niccolozanotti
-        # - name: Codeberg
-        #   url: https://codeberg.org/niccolozanotti
+        - name: Codeberg
+          url: https://codeberg.org/niccolozanotti
         - name: Bluesky
           url: https://bsky.app/profile/niccolozanotti.com
         - name: Mastodon
